@@ -15,15 +15,13 @@ the damage assessment process for emergency managers.
 
 Specifically, we:
 
-1. Mine and integrate a large corpus of data posted online to understand trends
-   and features in unsafe food product reports
+1. 
    
-2. Develop preliminary classification models for early identification of unsafe
-   foods
+2. 
    
 This is one of
-[four projects](http://escience.washington.edu/dssg/project-summaries-2016/)
-from the 2016 Data Science for Social Good summer fellowship at the University
+[three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/)
+from the 2018 Data Science for Social Good summer fellowship at the University
 of Washington [eScience Institute](http://escience.washington.edu/).
 
 ## The Team
@@ -32,7 +30,7 @@ of Washington [eScience Institute](http://escience.washington.edu/).
 [Youngjun Choe](http://faculty.washington.edu/ychoe/),
 Disaster Data Science Lab, Aerospace & Engineering Research Building, UW
 
-**Data Scientist:** Valentina Staneva
+**Data Scientist Lead:** Valentina Staneva
 
 **DSSG Fellows:** Sean Chen, Andrew Escay, Chris Haberland, Tessa Schneider, An Yan
 
