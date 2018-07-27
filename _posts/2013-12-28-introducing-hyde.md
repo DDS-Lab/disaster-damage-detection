@@ -6,7 +6,7 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dssg.png">
 </a>
 
-# Mining Online Data for Early Identification of Unsafe Food Products
+# Automatic Damage Annotation on Post-Hurricane Satellite Imagery
 
 The goal of this project is to use post hurricane satellite imagery data to 
 train a machine learning algorithm to automatically detect damages from 
