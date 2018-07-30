@@ -6,6 +6,6 @@ title: Data collecting
 
 As our goal was to train a model to automatically detect damages in post-hurricane satellite imagery, we needed to gather all data required for our chosen machine learning algorithms: SSD and Faster R-CNN.  Since these required bounding boxes around the annotated points, we gathered parcel data and building footprints from the affected counties to create a additional layer from which the bounding boxes could be generated.
 
-[Hurricane Harvey Damage](https://github.com/DDS-Lab/disaster-damage-detection/master/Webp.net-gifmaker.gif)
+![Hurricane Harvey Damage](https://github.com/DDS-Lab/disaster-damage-detection/master/Webp.net-gifmaker.gif)
 
-[Hurricane Harvey Damage](https://github.com/DDS-Lab/disaster-damage-detection/master/output_oIUkc4.gif)
+![Hurricane Harvey Damage](https://github.com/DDS-Lab/disaster-damage-detection/master/output_oIUkc4.gif)
