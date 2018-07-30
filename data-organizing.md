@@ -17,3 +17,8 @@ Some visualizations based on summary statistics queried from the database can be
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
 
+<script src='https://unpkg.com/leaflet.gridlayer.googlemutant@latest/Leaflet.GoogleMutant.js'></script>
+
+var roads = L.gridLayer.googleMutant({
+    type: 'roadmap' // valid values are 'roadmap', 'satellite', 'terrain' and 'hybrid'
+}).addTo(map);
