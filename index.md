@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<a href="https://www.thevintagenews.com/2017/11/28/abandoned-in-space-in-1967/">
-<img src="{{ site.url }}{{ site.baseurl }}satellite.png">
-</a>
+<img src="satellite.png" class="img-responsive" alt=""> </div>
 
 # Automatic Damage Annotation on Post-Hurricane Satellite Imagery
 
