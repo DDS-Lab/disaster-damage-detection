@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="satellite.png" class="img-responsive" alt=""> </div>
+<img src="satellite.png" class="img-responsive" alt="">
 
 # Automatic Damage Annotation on Post-Hurricane Satellite Imagery
 
