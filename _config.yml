@@ -3,7 +3,7 @@ permalink:        pretty
 
 # Setup
 title:            Disaster Damage Detection (D-cubed)
-tagline:          'Automatic damage detection in satellite imagery after hurricanes'
+tagline:          ''
 description:      'A Data Science for Social Good 2018 fellowship project'
 url:              "https://dds-lab.github.io"
 baseurl:          "/disaster-damage-detection"
