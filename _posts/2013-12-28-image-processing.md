@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Disasater Image Processing
 ---
 
 <a href="http://escience.washington.edu/dssg/">
