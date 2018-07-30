@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a href="https://www.google.com/search?q=satellite&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzo-2vcfcAhUiNX0KHQi6A8QQ_AUICygC&biw=1440&bih=803#imgrc=8z6qpSHRJIBdyM:">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dssg.png">
+<img src="{{ site.url }}{{ site.baseurl }}satellite.png">
 </a>
 
 # Automatic Damage Annotation on Post-Hurricane Satellite Imagery
