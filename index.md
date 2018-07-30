@@ -15,9 +15,11 @@ the damage assessment process for emergency managers.
 
 Specifically, we:
 
-1. Gather, clean and prepare training datasets with annotations for damaged buildings
+1. Gather, clean and prepare training datasets with annotations for damaged buildings and test datasets
    
-2. 
+2. Train the machine learning algorithm using the training data
+
+3. Test the model on a test dataset
    
 This is one of
 [three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/)
