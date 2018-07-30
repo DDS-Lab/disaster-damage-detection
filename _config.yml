@@ -1,24 +1,12 @@
-# Dependencies
-highlighter:      rouge
-
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Disaster Damage Detection (D-cubed)
 tagline:          'Automatic damage detection in satellite imagery after hurricanes'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A Data Science for Social Good 2018 fellowship project'
 url:              "https://dds-lab.github.io"
 baseurl:          "/disaster-damage-detection"
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/DDS-Lab/disaster-damage-detection
