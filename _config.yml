@@ -4,7 +4,7 @@ permalink:        pretty
 # Setup
 title:            Disaster Damage Detection
 tagline:          ''
-description:      'A Data Science for Social Good 2018 fellowship project'
+description:      'Automatic damage detection in satellite imagery after hurricanes'
 url:              "https://dds-lab.github.io"
 baseurl:          "/disaster-damage-detection"
 
