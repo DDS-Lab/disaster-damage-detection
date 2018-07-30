@@ -3,4 +3,4 @@ layout: page
 title:  Image processing
 ---
 
-<img src="Process flow.png" class="img-responsive" alt="" width="300" height="250">
+<img src="Process flow.png" class="img-responsive" alt="" width="600" height="500">
