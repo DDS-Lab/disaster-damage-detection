@@ -3,6 +3,4 @@ layout: page
 title:  Image processing
 ---
 
-<img src="Process flow.png" class="img-responsive" width="1400" height="800">
-
-![](Process flow.png =1400x800)
+<img src="Process flow.png" class="img-responsive" width="1400" height="800" />
