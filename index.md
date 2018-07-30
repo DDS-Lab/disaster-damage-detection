@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="http://escience.washington.edu/dssg/">
+<a href="https://www.google.com/search?q=satellite&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtzo-2vcfcAhUiNX0KHQi6A8QQ_AUICygC&biw=1440&bih=803#imgrc=8z6qpSHRJIBdyM:">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dssg.png">
 </a>
 
@@ -15,7 +15,7 @@ the damage assessment process for emergency managers.
 
 Specifically, we:
 
-1. 
+1. Gather, clean and prepare training datasets with annotations for damaged buildings
    
 2. 
    
