@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img src="satellite.png" class="img-responsive" alt="">
-[Source](https://www.thevintagenews.com/2017/11/28/abandoned-in-space-in-1967/)
+[(Image source)](https://www.thevintagenews.com/2017/11/28/abandoned-in-space-in-1967/)
 
 # Automatic Damage Annotation on Post-Hurricane Satellite Imagery
 
