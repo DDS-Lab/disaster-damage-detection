@@ -4,3 +4,5 @@ title:  Image processing
 ---
 
 <img src="Process flow.png" class="img-responsive" alt="">
+
+![](Process flow.png)
