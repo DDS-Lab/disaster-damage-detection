@@ -8,19 +8,23 @@ As our goal was to train a model to automatically detect damages in post-hurrica
 
 ![Satellite](Webp.net-gifmaker1.gif)
 
+TOMNOD points (cyan) are downloaded from the Digital Globe website for the study area. Points represent locations of damaged buildings following Hurricane Harvey identified from satellite imagery from TOMNOD volunteers.
+
 <img src="data1.png" class="img-responsive" alt="">
 
-<img src="data2.png" class="img-responsive" alt="">
+The light green boxes represent 2048 X 2048-pixel chips of post-disaster satellite imagery coinciding with areas that were tagged by TOMNOD volunteers. We assume that the imagery contained in these bounds was reviewed by the TOMNOD volunteers to tag damaged buildings.
 
 <img src="data3.png" class="img-responsive" alt="">
 
+Let's zoom in to inspect a cluster of annotated points in finer detail.
+
 <img src="data4.png" class="img-responsive" alt="">
 
-<img src="data5.png" class="img-responsive" alt="">
+Microsoft building footprints (purple) [hyperlink] are obtained for the study area. Because coverage of this dataset is not complete around our study area, we also use a building footprints dataset from FEMA (light blue) [hyperlink] where Microsoft building footprints are absent.
 
 <img src="data6.png" class="img-responsive" alt="">
 
-<img src="data7.png" class="img-responsive" alt="">
+Bounding boxes are instantiated as the minimum bounding rectangle (also known as the envelope) of the merged building footprint dataset.
 
 <img src="data8.png" class="img-responsive" alt="">
 
