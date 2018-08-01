@@ -8,4 +8,6 @@ As our goal was to train a model to automatically detect damages in post-hurrica
 
 ![Hurricane Harvey Damage](Webp.net-gifmaker.gif)
 
+![Satellite](Webp.net-gifmaker1.gif)
+
 
