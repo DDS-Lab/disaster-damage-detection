@@ -8,4 +8,20 @@ As our goal was to train a model to automatically detect damages in post-hurrica
 
 ![Satellite](Webp.net-gifmaker1.gif)
 
+<img src="data1.png" class="img-responsive" alt="">
+
+<img src="data2.png" class="img-responsive" alt="">
+
+<img src="data3.png" class="img-responsive" alt="">
+
+<img src="data4.png" class="img-responsive" alt="">
+
+<img src="data5.png" class="img-responsive" alt="">
+
+<img src="data6.png" class="img-responsive" alt="">
+
+<img src="data7.png" class="img-responsive" alt="">
+
+<img src="data8.png" class="img-responsive" alt="">
+
 
