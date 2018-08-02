@@ -8,4 +8,8 @@ title: Model training
 
 ![Damaged](damaged-sat.png)![Undamaged](undamaged-sat.png)
 
+![groundtruth_test1](groundtruth_test1.png)
+
+![groundtruth_test2](groundtruth_test2.png)
+
 2. Aerial RGB Imagery
