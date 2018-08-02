@@ -11,6 +11,7 @@ As our goal was to train a model to automatically detect damages in post-hurrica
 TOMNOD points (cyan) are downloaded from the Digital Globe website for the study area. Points represent locations of damaged buildings following Hurricane Harvey identified from satellite imagery from TOMNOD volunteers.
 
 <img src="data1.png" class="img-responsive" alt="">
+![png](https://github.com/DDS-Lab/disaster-damage-detection/blob/master/data1.png)
 
 The light green boxes represent 2048 X 2048-pixel chips of post-disaster satellite imagery coinciding with areas that were tagged by TOMNOD volunteers. We assume that the imagery contained in these bounds was reviewed by the TOMNOD volunteers to tag damaged buildings.
 
