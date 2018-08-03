@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Problem
+title: About
 ---
 
 ![Hurricane Harvey](harvey.gif)
