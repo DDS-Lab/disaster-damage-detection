@@ -3,7 +3,7 @@ layout: page
 title:  Image processing
 ---
 
-![Process flow](Process-flow.png)
+![Pipeline flow chart](Pipeline.png)
 
 
 
