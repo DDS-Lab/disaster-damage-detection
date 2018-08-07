@@ -2,6 +2,15 @@
 layout: page
 title: Data collecting
 ---
+| Data Type| Source|Generation Method|
+| -------------- | ----------- | ------------ |
+| Imagery             | [DigitalGlobe](https://www.digitalglobe.com/opendata/hurricane-harvey/post-event)               | Satellite(RGB)    | 
+| Imagery             | [NOAA](https://storms.ngs.noaa.gov/storms/harvey/index.html#7/28.400/-96.690)                       | Aerial(RGB)    | 
+| Damage Annotations  | [TOMNOD](https://www.digitalglobe.com/opendata/hurricane-harvey/vector-data)                     | Crowdsourced   |
+| Damage Annotations  | [FEMA](https://data.femadata.com/NationalDisasters/)                       | Assessed by FEMA              |
+| Building Footprints | [Oak Ridge National Lab](https://data.femadata.com/NationalDisasters/)     | Proprietary Algorithm |
+| Building Footprints | [Microsoft](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)                  | Proprietary Algorithm |
+| Parcel Data         | [Affected County Appraisal Districts](https://github.com/DDS-Lab/disaster-image-processing/blob/master/Parcel%20Data%20for%20Affected%20Counties%20-%20Sheet1.csv) | Assessed by Appraisers       |
 
 This project utilized [Digital Globe Data](https://www.digitalglobe.com/opendata/hurricane-harvey/post-event) which included Hurricane Harvey tif images and a geojson of volunteer crowdsourced damage annotations from Tomnod.
 
