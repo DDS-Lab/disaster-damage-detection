@@ -28,7 +28,7 @@ of Washington [eScience Institute](http://escience.washington.edu/).
 ## The Team
 
 **Project Lead:**
-[Youngjun Choe](http://faculty.washington.edu/ychoe/), Assistant Professor of Industrial & Systems Engineering and Director of the Disaster Data Science Lab, Aerospace & Engineering Research Building, University of Washington
+[Youngjun Choe](http://escience.washington.edu/people/youngjun-choe/), Assistant Professor of Industrial & Systems Engineering and Director of the Disaster Data Science Lab, Aerospace & Engineering Research Building, University of Washington
 
 **Data Scientist Lead:** Valentina Staneva
 
