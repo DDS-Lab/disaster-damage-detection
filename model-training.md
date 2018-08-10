@@ -2,9 +2,12 @@
 layout: page
 title: Model training
 ---
-1. Satellite RGB Imagery from Digital Globe using Single Shot Detector (SSD)
+
+For each training that we conducted, we were able to view the training loss and precision via the Tensorboard shown below:
 
 ![Tensorboard output](tensorboard-sat.png)
+
+1. Satellite RGB Imagery from Digital Globe using Single Shot Detector (SSD)
 
 ![Damaged](damaged-sat.png)![Undamaged](undamaged-sat.png)
 
