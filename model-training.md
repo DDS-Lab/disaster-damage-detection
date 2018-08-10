@@ -13,3 +13,7 @@ title: Model training
 ![groundtruth_test2](groundtruth_test2.png)
 
 2. Aerial RGB Imagery
+
+![NOAA5class](NOAA5class.png)
+
+![NOAA5class2](NOAA5class2.png)
