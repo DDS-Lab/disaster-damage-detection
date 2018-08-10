@@ -32,4 +32,4 @@ of Washington [eScience Institute](http://escience.washington.edu/).
 
 **Data Scientist Lead:** [Valentina Staneva](http://escience.washington.edu/people/valentina-staneva/), Senior Data Scientist, eScience Institute
 
-**DSSG Fellows:** [Sean Chen](http://seanandrewchen.com/), Andrew Escay, Chris Haberland, [Tessa Schneider](https://www.linkedin.com/in/tessa-schneider-19b50822/), [An Yan](https://ischool.uw.edu/people/phd/profile/yanan15)
+**DSSG Fellows:** [Sean Chen](http://seanandrewchen.com/), [Andrew Escay](), [Chris Haberland](http://www.chrishaber.land), [Tessa Schneider](https://www.linkedin.com/in/tessa-schneider-19b50822/), [An Yan](https://ischool.uw.edu/people/phd/profile/yanan15)
