@@ -14,4 +14,7 @@ Flooding on the outskirts of Houston, Texas, August 31, 2017 (Photo credit: [Sou
 Even with advances in predicting when and where hurricanes will occur, increased urbanization combined with aging infrastructure is putting more and more people at risk.  One quarter of the world's population lives within 100 km of a coastline, areas which are more susceptible to flooding and sea level rise (IPCC).  One implications for emergency managers is the pressing need to develop a tool that is faster than the weeks it can take for damage assessment using windshield surveys. 
 A tool that can automatically detect damages from post-hurricane satellite imagery could reduce the time required for damage assessment to 24 hours.  This could serve to triage and further optimize disaster response efforts.
 
+Effective disaster response relies on several levels of information.  Automatic damage detection from satellite imagery would work best after disaster events when there is minimal cloudcover and would serve as a speedier supplement to pre-existing ways of assessing damages.
+
+![Information integration](Information-integration.png)
 
