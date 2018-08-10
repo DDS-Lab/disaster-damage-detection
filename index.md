@@ -29,7 +29,7 @@ of Washington [eScience Institute](http://escience.washington.edu/).
 
 **Project Lead:**
 [Youngjun Choe](http://faculty.washington.edu/ychoe/),
-Disaster Data Science Lab, Aerospace & Engineering Research Building, UW
+Disaster Data Science Lab, Aerospace & Engineering Research Building, University of Washington
 
 **Data Scientist Lead:** Valentina Staneva
 
