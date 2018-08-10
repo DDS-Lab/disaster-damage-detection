@@ -14,6 +14,8 @@ title: Model training
 
 2. Aerial RGB Imagery from NOAA and FEMA
 
+Green bounding boxes indicate non-damaged buildings and the other colored bounding boxes indicate damaged buildings of varying degrees.
+
 ![NOAA5class](NOAA5class.png)
 
 ![NOAA5class2](NOAA5class2.png)
