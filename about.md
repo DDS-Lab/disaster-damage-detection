@@ -4,7 +4,7 @@ title: About
 ---
 
 ![Hurricane Harvey](harvey.gif)
-
+Source: [National Oceanic and Atmospheric Association (NOAA)](http://rammb.cira.colostate.edu/ramsdis/online/images/loop_of_the_day/goes-16/20170828000000/video/20170828000000_harveyir.gif) 
 
 Global climate change from greenhouse gas emissions is causing an increase in the intensity and frequency of hurricane events.  Evidence for this is presented by the [Intergovernmental Panel on Climate Change (IPCC)](http://www.ipcc.ch/report/ar5/wg1/).  According to Datafloq, these three hurricanes alone impacted upwards of 26.5 million people in the US in 2017, so improving disaster response after hurricanes would have a far-reaching effect.  
 
