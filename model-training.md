@@ -2,7 +2,7 @@
 layout: page
 title: Model training
 ---
-1. Satellite RGB Imagery using Single Shot Detector (SSD)
+1. Satellite RGB Imagery from Digital Globe using Single Shot Detector (SSD)
 
 ![Tensorboard output](tensorboard-sat.png)
 
@@ -12,7 +12,7 @@ title: Model training
 
 ![groundtruth_test2](groundtruth_test2.png)
 
-2. Aerial RGB Imagery
+2. Aerial RGB Imagery from NOAA and FEMA
 
 ![NOAA5class](NOAA5class.png)
 
