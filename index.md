@@ -21,7 +21,7 @@ Specifically, we:
 3. Test the model on a test dataset
    
 This is one of
-[three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/)
+[three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/)<a href="http://escience.washington.edu/2018-data-science-for-social-good-projects/" target="_blank">three projects</a>
 from the 2018 Data Science for Social Good summer fellowship at the University
 of Washington [eScience Institute](http://escience.washington.edu/).
 
