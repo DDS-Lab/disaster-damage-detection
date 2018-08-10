@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data collecting
+title: Data collection
 ---
 | Data Type| Source|Generation Method|Format|File Size Order|License|
 | -------------- | ----------- | ------------ | ------------- |-------------- | ------------- |
