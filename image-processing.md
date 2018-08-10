@@ -6,7 +6,7 @@ We considered several computer vision tasks to apply to our data, including clas
 
 ![Pipeline overview](Pipeline-processes2.png)
 
-Details on the steps within each process are in the chart below.  For additional documentation and scripts, please visit our github repository [here](https://github.com/DDS-Lab/disaster-image-processing)
+Details on the steps within each process are in the chart below.  For additional documentation and scripts, please visit our github repository [here](https://github.com/DDS-Lab/disaster-image-processing).
 
 ![Pipeline flow chart](Pipeline-large.png)
 
