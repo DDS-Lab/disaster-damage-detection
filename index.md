@@ -30,6 +30,6 @@ of Washington [eScience Institute](http://escience.washington.edu/).
 **Project Lead:**
 [Youngjun Choe](http://escience.washington.edu/people/youngjun-choe/), Assistant Professor of Industrial & Systems Engineering and Director of the Disaster Data Science Lab, Aerospace & Engineering Research Building, University of Washington
 
-**Data Scientist Lead:** Valentina Staneva
+**Data Scientist Lead:** [Valentina Staneva](http://escience.washington.edu/people/valentina-staneva/), Senior Data Scientist, eScience Institute
 
 **DSSG Fellows:** Sean Chen, Andrew Escay, Chris Haberland, Tessa Schneider, An Yan
