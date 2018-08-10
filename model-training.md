@@ -22,3 +22,5 @@ Green bounding boxes indicate non-damaged buildings and the other colored boundi
 ![NOAA5class](NOAA5class.png)
 
 ![NOAA5class2](NOAA5class2.png)
+
+For more details on the steps involved in model training and inference, please visit our [github wiki](https://github.com/DDS-Lab/harvey_data_process/wiki).
