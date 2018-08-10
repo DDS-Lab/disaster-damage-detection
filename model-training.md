@@ -2,6 +2,7 @@
 layout: page
 title: Model training
 ---
+For more technical details on the steps involved in model training and inference, please visit our [github wiki](https://github.com/DDS-Lab/harvey_data_process/wiki).
 
 For each training that we conducted, we were able to view the training loss and precision via the Tensorboard shown below:
 
@@ -23,4 +24,3 @@ Green bounding boxes indicate non-damaged buildings and the other colored boundi
 
 ![NOAA5class2](NOAA5class2.png)
 
-For more details on the steps involved in model training and inference, please visit our [github wiki](https://github.com/DDS-Lab/harvey_data_process/wiki).
