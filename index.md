@@ -14,7 +14,7 @@ the damage assessment process for emergency managers.
 
 Specifically, we:
 
-1. Gather, clean and prepare training datasets with annotations for damaged buildings and test datasets
+1. Gather, clean and prepare training and testing datasets with annotations for damaged buildings
    
 2. Train the machine learning algorithm using the training data
 
