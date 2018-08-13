@@ -20,6 +20,10 @@ For each training that we conducted, we were able to view the training loss and 
 
 Green bounding boxes indicate non-damaged buildings and the other colored bounding boxes indicate damaged buildings of varying degrees.
 
+![NOAApredictions2class](noaaprediction.png)
+
+![NOAApredictions2class2](noaaprediction2.png)
+
 ![NOAA5class](NOAA5class.png)
 
 ![NOAA5class2](NOAA5class2.png)
