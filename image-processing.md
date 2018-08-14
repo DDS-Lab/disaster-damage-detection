@@ -11,5 +11,5 @@ Details on the steps within each process are in the chart below.  For additional
 ![Pipeline flow chart](Pipeline-large.png)
 
 
-
+![Run alternatives](runalternatives.png)
 
