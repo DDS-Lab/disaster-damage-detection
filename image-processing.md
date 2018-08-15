@@ -2,7 +2,11 @@
 layout: page
 title:  Methods and image processing
 ---
-We considered several computer vision tasks to apply to our data, including classification, segmentation and object detection.  Classification would tell us whether a aignle object is or is not present in an image.  Segmentation would divide the image into regions with common properties, which has been applied to detecting flooded regions in satellite imagery.  We decided to apply object detection since it would detect and locate multiple real world objects in a given image.  Object detection would enable us to detect different objects that may be of interest to emergency managers, such as damaged buildings, damage debris, etc.  Within object detection many algorithms have been developed, however we mainly considered Faster R-CNN and Single Shot MultiBox Detector (SSD), since these methods were being applied to satellite imagery data during the xView detection challenge.  Once we had our models selected, we were ready to develop our pipeline below.  
+We considered several computer vision tasks to apply to our data, including classification, segmentation and object detection.  Classification would tell us whether a aignle object is or is not present in an image.  Segmentation would divide the image into regions with common properties, which has been applied to detecting flooded regions in satellite imagery.  We decided to apply object detection since it would detect and locate multiple real world objects in a given image.  Object detection would enable us to detect different objects that may be of interest to emergency managers, such as damaged buildings, damage debris, etc.  
+
+![computer_vision](computervision.png)
+
+Within object detection many algorithms have been developed, however we mainly considered Faster R-CNN and Single Shot MultiBox Detector (SSD), since these methods were being applied to satellite imagery data during the xView detection challenge.  Once we had our models selected, we were ready to develop our pipeline below.  
 
 ![Pipeline flow chart](Pipeline-large.png)
 
