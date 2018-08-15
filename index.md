@@ -7,23 +7,15 @@ layout: default
 
 # Automatic Damage Annotation on Post-Hurricane Satellite Imagery
 
-The goal of this project is to use post hurricane satellite imagery data to 
-train a machine learning algorithm to automatically detect damages from 
-satellite images after hurricanes. Our goal is to develop a model that improves 
-the damage assessment process for emergency managers. 
+The Disaster Damage Detection team worked on one of [three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/) from the 2018 Data Science for Social Good summer fellowship at the University of Washington [eScience Institute](http://escience.washington.edu/). The goal of this project is to use post hurricane satellite imagery data to train object detection models to automatically detect damages from satellite images after hurricanes to facilitate the damage assessment process for emergency managers.
 
-Specifically, we:
+This website catalogs the groups work to:
 
-1. Gather, clean and prepare training datasets with annotations for damaged buildings and test datasets
-   
-2. Train the machine learning algorithm using the training data
+1.    Gather, clean and prepare training datasets with annotations for damaged buildings and test datasets
 
-3. Test the model on a test dataset
-   
-This is one of
-[three projects](http://escience.washington.edu/2018-data-science-for-social-good-projects/)
-from the 2018 Data Science for Social Good summer fellowship at the University
-of Washington [eScience Institute](http://escience.washington.edu/).
+2.    Train the machine learning algorithm using the training data
+
+3.    Test the model on a test dataset
 
 ## The Team
 
