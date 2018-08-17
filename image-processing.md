@@ -6,7 +6,7 @@ We considered several computer vision tasks to apply to our data, including clas
 
 ![computer_vision](cvision.png)
 
-Within object detection many algorithms have been developed, however we mainly considered Faster R-CNN and Single Shot MultiBox Detector (SSD), since these methods were being applied to satellite imagery data during the xView detection challenge.  Once we had our models selected, we were ready to develop our pipeline below.  
+Within object detection many algorithms have been developed, however we mainly considered Faster R-CNN (Ren et al., 2015) and Single Shot MultiBox Detector (SSD) (Liu et al., 2016), since these methods were being applied to satellite imagery data during the xView detection challenge.  Once we had our models selected, we were ready to develop our pipeline below.  
 
 ![Pipeline flow chart](Pipeline-large.png)
 
