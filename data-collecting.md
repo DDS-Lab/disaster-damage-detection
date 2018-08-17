@@ -14,7 +14,17 @@ title: Data collection
 
 *Parcel data was collected by contacting each County Appraisal District Office
 
-This project utilized [Digital Globe Data](https://www.digitalglobe.com/opendata/hurricane-harvey/post-event) which included Hurricane Harvey tif images and a geojson of volunteer crowdsourced damage annotations from TOMNOD, as well as aerial imagery from the National Oceanic and Atmospheric Administration (NOAA).
+![digitalglobe](dg.png)
+
+![noaa](noaa2.png)
+
+![fematomnod](fematomnod.png)
+
+![oakridge](oakridge.png)
+
+![microsoft](microsoft.png)
+
+This project utilized [Digital Globe Data](https://www.digitalglobe.com/opendata/hurricane-harvey/post-event), which included Hurricane Harvey tif images and a geojson of volunteer crowdsourced damage annotations from TOMNOD, as well as aerial imagery from the National Oceanic and Atmospheric Administration (NOAA).
 
 As our goal was to train a model to automatically detect damages in post-hurricane satellite imagery, we needed to gather all data required for our chosen machine learning algorithms: SSD and Faster R-CNN.  Since these required bounding boxes around the annotated damage points, we gathered parcel data and building footprints from the affected counties to create an additional layer from which the bounding boxes for the features (damaged and undamaged buildings) could be generated.  Find more details on the data collection process [here](https://github.com/DDS-Lab/disaster-image-processing/blob/master/data.md).
 
