@@ -12,7 +12,13 @@ Within object detection many algorithms have been developed, however we mainly c
 
 The pipeline is fairly complex, but essentially we start with the raw data which we pass through a series of processes, such as image tiling, data processing, training data creation and model training and inference.
 
-Details on the run alternatives for image processing are detailed below.  For additional documentation and scripts, please visit our github repository [here](https://github.com/DDS-Lab/disaster-image-processing).
+Details on the run alternatives for image processing are detailed below.
 
 ![Run alternatives](runalternatives.png)
+
+Of all of the possible run alternatives, we selected three that would be most viable detailed in the figure below.
+
+![3 runs](3runs.png)
+
+For additional documentation and scripts, please visit our github repository [here](https://github.com/DDS-Lab/disaster-image-processing).
 
