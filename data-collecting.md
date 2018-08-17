@@ -14,7 +14,7 @@ title: Data collection
 
 *Parcel data was collected by contacting each County Appraisal District Office
 
-![digitalglobe](dg.png)
+![digitalglobe](DG.png)
 
 ![noaa](noaa2.png)
 
