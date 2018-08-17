@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Methods and image processing
+title:  Methods and Image Processing
 ---
 We considered several computer vision tasks to apply to our data, including classification, segmentation and object detection.  Classification would tell us whether a aignle object is or is not present in an image.  Segmentation would divide the image into regions with common properties, which has been applied to detecting flooded regions in satellite imagery.  We decided to apply object detection since it would detect and locate multiple real world objects in a given image.  Object detection would enable us to detect different objects that may be of interest to emergency managers, such as damaged buildings, damage debris, etc.  
 
