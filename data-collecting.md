@@ -18,7 +18,7 @@ This project utilized [Digital Globe Data](https://www.digitalglobe.com/opendata
 
 As our goal was to train a model to automatically detect damages in post-hurricane satellite imagery, we needed to gather all data required for our chosen machine learning algorithms: SSD and Faster R-CNN.  Since these required bounding boxes around the annotated damage points, we gathered parcel data and building footprints from the affected counties to create an additional layer from which the bounding boxes for the features (damaged and undamaged buildings) could be generated.  Find more details on the data collection process [here](https://github.com/DDS-Lab/disaster-image-processing/blob/master/data.md).
 
-Now for a look a closer look at the imagery data:
+Now for a closer look at the imagery data:
 
 ![Satellite](Webp.net-gifmaker1.gif)
 
