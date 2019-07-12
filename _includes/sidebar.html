@@ -11,6 +11,7 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -18,6 +19,7 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
+      {% pages_list.append(pages_list[0]) %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
