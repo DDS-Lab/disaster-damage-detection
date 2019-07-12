@@ -19,7 +19,6 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
-      {% pages_list.append(pages_list[0]) %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
